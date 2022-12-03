@@ -1,6 +1,8 @@
 ### Olá! Eu sou Ednei R Louback 🌙
- - fiz alguns webSites simples - ate o momento.
- - e alguns estudos com javascript.
+- Neste link está meu portifólio e alguns web sites que 
+- desenvolvi atrazes de youTube e afins. 
+- ctrl + Click
+- link - https://mr-louback.github.io/portifolio/.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduncoder/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ednei-louback-593395b5/)
