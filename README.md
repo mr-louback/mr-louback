@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ednei R Louback 🌙
 - Neste link está meu portifólio e alguns web sites que 
-- desenvolvi atrazes de youTube e afins. 
+- desenvolvi através do youTube e afins todos gratuitos e agradeço muitos as gentis pessoas que os disponibilizaram. 
 - ctrl + Click
 - link - https://mr-louback.github.io/portifolio/.
 
