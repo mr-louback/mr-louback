@@ -1,7 +1,7 @@
 ### Olá! Eu sou Ednei R Louback 🌙
 - Neste link está meu portifólio e alguns web sites que 
-- desenvolvi através do youTube e afins todos gratuitos e agradeço muitos as gentis pessoas que os disponibilizaram. 
-- ctrl + Click
+- desenvolvi através do youTube e afins, todos gratuitos. Agradeço imensamente às gentis pessoas que os disponibilizaram. 
+- ctrl + Click no link abaixo
 - link - https://mr-louback.github.io/portifolio/.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduncoder/)
